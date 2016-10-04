@@ -27,8 +27,7 @@ class FPM
 		//		Enter f(x) here			//
 		
 		      return (x*x*x+4*x*x-10); 
-		
-		//		Enter f(x) here			//
+	
 		}
 	
 		void setC()
